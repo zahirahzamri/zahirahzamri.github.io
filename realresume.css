@@ -1,0 +1,71 @@
+#img{
+  float: left;
+  width: 15%;
+}
+*{
+  font-size: 20px;
+}
+.header{
+  text-align: center;
+}
+.name{
+  font-size: 30px;
+  font-weight: bold;
+}
+th{
+  text-align: left;
+}
+table{
+  padding: 50px;
+  padding-top: 20px;
+  padding-bottom: 2%;
+}
+td{
+  padding: 5px;
+}
+h2{
+  text-align: center;
+  background-color: cyan;
+  border-radius: 20px;
+  padding-top: 0;
+}
+.personal{
+    float: left;
+    margin-top: 20px;
+    padding-left:5px;
+    height: auto;
+    width: 99%;
+    background-color: #E3EDD8;
+}
+.education{
+    float: left;
+    margin-top: 50px;
+    padding-left:5px;
+    height: auto;
+    width: 99%;
+    background-color: #E3EDD8;
+}
+.contribution{
+    float: left;
+    margin-top: 50px;
+    padding-left:5px;
+    height: auto;
+    width: 99%;
+    background-color: #E3EDD8;
+}
+.skill{
+    float: left;
+    margin-top: 50px;
+    padding-left:5px;
+    height: auto;
+    width: 99%;
+    background-color: #E3EDD8;
+}
+.achievement{
+    float: left;
+    margin-top: 50px;
+    padding-left:5px;
+    height: auto;
+    width: 99%;
+    background-color: #E3EDD8;
+}
