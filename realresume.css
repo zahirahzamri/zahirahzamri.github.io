@@ -1,9 +1,13 @@
 #img{
   float: left;
   width: 15%;
+  padding-left: 30px;
 }
 *{
   font-size: 20px;
+  margin-left: 30px;
+  margin-right: 50px;
+  font-family: 'Trebuchet MS';
 }
 .header{
   text-align: center;
@@ -14,6 +18,7 @@
 }
 th{
   text-align: left;
+  font-size: 16px;
 }
 table{
   padding: 50px;
@@ -22,6 +27,7 @@ table{
 }
 td{
   padding: 5px;
+  font-size: 16px;
 }
 h2{
   text-align: center;
@@ -29,43 +35,15 @@ h2{
   border-radius: 20px;
   padding-top: 0;
 }
-.personal{
+.box{
     float: left;
     margin-top: 20px;
     padding-left:5px;
     height: auto;
     width: 99%;
     background-color: #E3EDD8;
+    border-radius: 20px;
 }
-.education{
-    float: left;
-    margin-top: 50px;
-    padding-left:5px;
-    height: auto;
-    width: 99%;
-    background-color: #E3EDD8;
-}
-.contribution{
-    float: left;
-    margin-top: 50px;
-    padding-left:5px;
-    height: auto;
-    width: 99%;
-    background-color: #E3EDD8;
-}
-.skill{
-    float: left;
-    margin-top: 50px;
-    padding-left:5px;
-    height: auto;
-    width: 99%;
-    background-color: #E3EDD8;
-}
-.achievement{
-    float: left;
-    margin-top: 50px;
-    padding-left:5px;
-    height: auto;
-    width: 99%;
-    background-color: #E3EDD8;
+#achievement{
+    margin-bottom: 30px;
 }
